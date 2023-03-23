@@ -1,8 +1,8 @@
-torch==1.8.0
-torchvision==0.9.0
+torch==1.13.0
+torchvision==0.14.0
 pandas
 addict
-sklearn
+scikit-learn==1.2.2
 opencv-python
 pytorch_warmup
 scikit-image
@@ -18,3 +18,4 @@ mmcv==1.2.5
 albumentations==0.4.6
 pathspec
 ptflops
+ipython
